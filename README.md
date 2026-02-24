@@ -72,6 +72,7 @@ Our world simulation models, Cosmos-Predict's fundamental capability is predicti
 ## User Guide
 
 * [Setup Guide](docs/setup.md)
+* [Troubleshooting](docs/troubleshooting.md)
 * [Inference](docs/inference.md)
   * [Auto Multiview](docs/inference_auto_multiview.md)
   * [Robot Action-Conditioned](docs/inference_robot_action_cond.md)
@@ -83,7 +84,6 @@ Our world simulation models, Cosmos-Predict's fundamental capability is predicti
   * [Auto Multiview](docs/post-training_multiview.md)
   * [Robot Action-Conditioned](docs/post-training_video2world_action.md)
 * [Distillation](docs/distillation.md)
-* [Troubleshooting](docs/troubleshooting.md)
 
 ## Contributing
 
